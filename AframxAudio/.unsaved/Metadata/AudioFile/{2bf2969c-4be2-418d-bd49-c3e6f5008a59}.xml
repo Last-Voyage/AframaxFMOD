@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{2bf2969c-4be2-418d-bd49-c3e6f5008a59}">
-		<property name="assetPath">
-			<value>AmbientBugNoisesV2.wav</value>
-		</property>
+		<property name="assetPath" />
 		<property name="isStreaming">
 			<value>true</value>
 		</property>

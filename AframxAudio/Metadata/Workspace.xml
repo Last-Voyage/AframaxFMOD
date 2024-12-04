@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="Workspace" id="{ca893f4f-c547-4276-ad58-c88289a4f8ce}">
+		<property name="builtBanksOutputDirectory">
+			<value>../../GitHub/Aframax/Assets/General/Audio/FMODTestAssets</value>
+		</property>
+		<relationship name="masterEventFolder">
+			<destination>{c496fae6-53b3-471e-9d7e-659b1700f2aa}</destination>
+		</relationship>
+		<relationship name="masterTagFolder">
+			<destination>{ef3b7329-b681-4bb0-87a5-26a115eeca29}</destination>
+		</relationship>
+		<relationship name="masterEffectPresetFolder">
+			<destination>{1f62f39c-b494-4db6-9429-e8341bf50792}</destination>
+		</relationship>
+		<relationship name="masterParameterPresetFolder">
+			<destination>{90d5eb10-d307-42e4-a090-ec4c29f95242}</destination>
+		</relationship>
+		<relationship name="masterBankFolder">
+			<destination>{1f9ff9b6-8a64-43f9-b646-f5fce3c7a5f5}</destination>
+		</relationship>
+		<relationship name="masterSandboxFolder">
+			<destination>{0da92dd5-c219-4f3b-8fc2-f311b4e22e99}</destination>
+		</relationship>
+		<relationship name="masterAssetFolder">
+			<destination>{711dc951-605f-4f29-9c36-5ebe918253fc}</destination>
+		</relationship>
+		<relationship name="mixer">
+			<destination>{4ab898b0-6dab-447b-a5c6-25d23f4048c0}</destination>
+		</relationship>
+		<relationship name="profilerSessionFolder">
+			<destination>{df26becf-9724-4014-8cda-57ddf6385918}</destination>
+		</relationship>
+		<relationship name="platforms">
+			<destination>{08444e22-06e2-4437-8738-63992b7de0c3}</destination>
+		</relationship>
+	</object>
+</objects>

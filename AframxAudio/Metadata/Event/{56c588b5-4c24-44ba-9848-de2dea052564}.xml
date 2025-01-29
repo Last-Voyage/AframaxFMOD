@@ -5,7 +5,7 @@
 			<value>EngineSFX</value>
 		</property>
 		<property name="outputFormat">
-			<value>1</value>
+			<value>2</value>
 		</property>
 		<relationship name="folder">
 			<destination>{c496fae6-53b3-471e-9d7e-659b1700f2aa}</destination>
@@ -137,9 +137,17 @@
 	<object class="MixerBusEffectChain" id="{0b0f6201-cf67-4151-8401-df8fda387c1e}">
 		<relationship name="effects">
 			<destination>{5e7b8826-f397-4e6d-b53c-f8adf4e3c1ed}</destination>
+			<destination>{acac53a3-e1c2-434c-a136-81a59ee9a977}</destination>
 		</relationship>
 	</object>
-	<object class="MixerBusPanner" id="{734033c4-fdab-4c3a-b255-6b79fe655dd1}" />
+	<object class="MixerBusPanner" id="{734033c4-fdab-4c3a-b255-6b79fe655dd1}">
+		<property name="surroundPanDirection">
+			<value>42.1375961</value>
+		</property>
+		<property name="surroundPanExtent">
+			<value>86.7874756</value>
+		</property>
+	</object>
 	<object class="MixerBusFader" id="{ae8a3a07-0065-4ecd-b216-ad208783f17d}" />
 	<object class="MixerBusEffectChain" id="{b1b579b4-9dfe-4fef-963c-ac794b806dc6}">
 		<relationship name="effects">
@@ -148,5 +156,13 @@
 	</object>
 	<object class="MixerBusPanner" id="{88ba996f-e3bb-4c4b-b5c5-dd22cfbf9d2a}" />
 	<object class="MixerBusFader" id="{5e7b8826-f397-4e6d-b53c-f8adf4e3c1ed}" />
+	<object class="SpatialiserEffect" id="{acac53a3-e1c2-434c-a136-81a59ee9a977}">
+		<property name="maximumDistance">
+			<value>50</value>
+		</property>
+		<property name="overrideRange">
+			<value>true</value>
+		</property>
+	</object>
 	<object class="MixerBusFader" id="{1d4cca83-aaf8-4136-a06b-1202f902cd77}" />
 </objects>

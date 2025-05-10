@@ -5,10 +5,10 @@
 			<value>LightsFlickeringSFX</value>
 		</property>
 		<property name="outputFormat">
-			<value>1</value>
+			<value>2</value>
 		</property>
 		<relationship name="folder">
-			<destination>{c496fae6-53b3-471e-9d7e-659b1700f2aa}</destination>
+			<destination>{690b3788-14bf-4772-acda-8c4f0b6bb05d}</destination>
 		</relationship>
 		<relationship name="mixer">
 			<destination>{2c48f45d-38bd-4724-ae71-d02344b695d2}</destination>
@@ -32,7 +32,7 @@
 			<destination>{0c460817-9311-45a5-9de9-3e459dd46428}</destination>
 		</relationship>
 		<relationship name="banks">
-			<destination>{4b439408-1cd9-4a65-8c7f-669a1f05337a}</destination>
+			<destination>{bc125536-b3ef-4aab-8daa-93e61eb7967e}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixer" id="{2c48f45d-38bd-4724-ae71-d02344b695d2}">
@@ -57,7 +57,7 @@
 			<destination>{c180b211-1e82-4011-a681-8bde2975b2cd}</destination>
 		</relationship>
 		<relationship name="output">
-			<destination>{3e64b7d2-42f6-4136-aff7-a590812b421a}</destination>
+			<destination>{1f6e4cd5-6f49-4a77-aee4-a62fca0be574}</destination>
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{ec3da8b3-52d8-4ad6-9b77-1fed80b6a0a1}" />
@@ -120,6 +120,7 @@
 	<object class="MixerBusEffectChain" id="{8aae9881-a16d-44ea-9632-bbb40a8ec892}">
 		<relationship name="effects">
 			<destination>{e76aa99e-3514-4b96-a47e-cd3c8003250f}</destination>
+			<destination>{523af4ad-8fe1-4efd-8ebc-e7f8403154ed}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{b386dab5-8661-413a-9c0c-2c885fda4011}" />
@@ -131,5 +132,6 @@
 	</object>
 	<object class="MixerBusPanner" id="{d4801e7a-49de-404b-a29c-e18c5a3c1081}" />
 	<object class="MixerBusFader" id="{e76aa99e-3514-4b96-a47e-cd3c8003250f}" />
+	<object class="SpatialiserEffect" id="{523af4ad-8fe1-4efd-8ebc-e7f8403154ed}" />
 	<object class="MixerBusFader" id="{7cb32fef-d712-4de4-b7f3-1d51a0f12b65}" />
 </objects>

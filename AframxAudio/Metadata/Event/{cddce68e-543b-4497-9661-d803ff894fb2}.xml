@@ -5,10 +5,10 @@
 			<value>LightShiftSFX</value>
 		</property>
 		<property name="outputFormat">
-			<value>1</value>
+			<value>2</value>
 		</property>
 		<relationship name="folder">
-			<destination>{c496fae6-53b3-471e-9d7e-659b1700f2aa}</destination>
+			<destination>{690b3788-14bf-4772-acda-8c4f0b6bb05d}</destination>
 		</relationship>
 		<relationship name="mixer">
 			<destination>{e6c6762e-6835-4f20-b4d6-5fa004cb7c56}</destination>
@@ -32,7 +32,7 @@
 			<destination>{f46af635-08c6-488f-9ee1-41e0bfdeac33}</destination>
 		</relationship>
 		<relationship name="banks">
-			<destination>{4b439408-1cd9-4a65-8c7f-669a1f05337a}</destination>
+			<destination>{bc125536-b3ef-4aab-8daa-93e61eb7967e}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixer" id="{e6c6762e-6835-4f20-b4d6-5fa004cb7c56}">
@@ -57,7 +57,7 @@
 			<destination>{e1f4a9ba-fbce-4613-af65-1da09762ce85}</destination>
 		</relationship>
 		<relationship name="output">
-			<destination>{3e64b7d2-42f6-4136-aff7-a590812b421a}</destination>
+			<destination>{1f6e4cd5-6f49-4a77-aee4-a62fca0be574}</destination>
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{d55a8644-0013-4e87-a3ee-6088576c6ba4}" />
@@ -120,6 +120,7 @@
 	<object class="MixerBusEffectChain" id="{59772ad3-85b8-4716-8efd-f8f377b0639c}">
 		<relationship name="effects">
 			<destination>{3924d170-df7a-4cc0-9ccd-9d7b98bfc9bf}</destination>
+			<destination>{d6860e26-7050-412a-94a4-897cb8cdecf1}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{768c677d-d31f-4ba9-bf88-193f8fc44ebe}" />
@@ -131,5 +132,6 @@
 	</object>
 	<object class="MixerBusPanner" id="{f101eaa8-e92b-471a-935d-26d9228f5151}" />
 	<object class="MixerBusFader" id="{3924d170-df7a-4cc0-9ccd-9d7b98bfc9bf}" />
+	<object class="SpatialiserEffect" id="{d6860e26-7050-412a-94a4-897cb8cdecf1}" />
 	<object class="MixerBusFader" id="{23e4195b-0e03-4339-b266-de004eaf0c1c}" />
 </objects>

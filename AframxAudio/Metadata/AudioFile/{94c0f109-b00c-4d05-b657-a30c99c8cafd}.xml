@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{94c0f109-b00c-4d05-b657-a30c99c8cafd}">
+		<property name="assetPath">
+			<value>Captain19.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>3.8159999999999998</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{711dc951-605f-4f29-9c36-5ebe918253fc}</destination>
+		</relationship>
+	</object>
+</objects>

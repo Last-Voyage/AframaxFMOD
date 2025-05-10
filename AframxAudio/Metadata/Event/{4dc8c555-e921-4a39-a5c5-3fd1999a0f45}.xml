@@ -2,13 +2,13 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{4dc8c555-e921-4a39-a5c5-3fd1999a0f45}">
 		<property name="name">
-			<value>PlayerVA 7</value>
+			<value>PlayerVA 7A</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>
 		</property>
 		<relationship name="folder">
-			<destination>{c496fae6-53b3-471e-9d7e-659b1700f2aa}</destination>
+			<destination>{b1914e4c-42c3-4f13-b6d5-78ab7248afc5}</destination>
 		</relationship>
 		<relationship name="mixer">
 			<destination>{18fa7501-95e3-497f-beeb-4ab217ea6027}</destination>
@@ -57,14 +57,14 @@
 			<destination>{f5cc750d-cdae-4e12-ad5b-65258c5f9e78}</destination>
 		</relationship>
 		<relationship name="output">
-			<destination>{3e64b7d2-42f6-4136-aff7-a590812b421a}</destination>
+			<destination>{f0f2cb2d-7ebb-4081-be23-a60844b46165}</destination>
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{4e830a35-63d9-4ae4-af5e-2c88f901fe05}" />
 	<object class="MarkerTrack" id="{a51c657b-21eb-4da9-afde-23c15369b680}" />
 	<object class="GroupTrack" id="{004ab7c1-2eff-489c-8532-2803bdd56fdf}">
 		<relationship name="modules">
-			<destination>{22ac9522-36cc-42fc-8f3b-e9217baeb2f9}</destination>
+			<destination>{f8b6d424-10c7-4e77-94a5-2ae5df70874e}</destination>
 		</relationship>
 		<relationship name="mixerGroup">
 			<destination>{efcb34cc-95e2-4333-8ebe-98fb39060ba4}</destination>
@@ -72,7 +72,7 @@
 	</object>
 	<object class="Timeline" id="{d719efcc-b5d2-4f02-8623-989890eaf940}">
 		<relationship name="modules">
-			<destination>{22ac9522-36cc-42fc-8f3b-e9217baeb2f9}</destination>
+			<destination>{f8b6d424-10c7-4e77-94a5-2ae5df70874e}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixerMaster" id="{31940cd3-bac7-4dab-85af-020f16e13853}">
@@ -92,15 +92,21 @@
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{f5cc750d-cdae-4e12-ad5b-65258c5f9e78}" />
-	<object class="SingleSound" id="{22ac9522-36cc-42fc-8f3b-e9217baeb2f9}">
+	<object class="SingleSound" id="{f8b6d424-10c7-4e77-94a5-2ae5df70874e}">
+		<property name="start">
+			<value>5.5511151231257827e-17</value>
+		</property>
 		<property name="length">
-			<value>1.8285714285714285</value>
+			<value>0.91200000000000003</value>
 		</property>
 		<relationship name="audioFile">
-			<destination>{4f27e4d4-3047-4d35-81c1-f1c79c4f08ec}</destination>
+			<destination>{8d2e7316-9cc0-4947-aae2-d29d6a6a43db}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{efcb34cc-95e2-4333-8ebe-98fb39060ba4}">
+		<property name="volume">
+			<value>2.5</value>
+		</property>
 		<property name="name">
 			<value>Audio 1</value>
 		</property>

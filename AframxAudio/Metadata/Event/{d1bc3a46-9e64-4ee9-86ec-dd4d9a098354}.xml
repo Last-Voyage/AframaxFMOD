@@ -5,10 +5,10 @@
 			<value>CreatureCrySFX</value>
 		</property>
 		<property name="outputFormat">
-			<value>1</value>
+			<value>2</value>
 		</property>
 		<relationship name="folder">
-			<destination>{c496fae6-53b3-471e-9d7e-659b1700f2aa}</destination>
+			<destination>{931b3028-d55d-4c70-b611-5435a9e9c85a}</destination>
 		</relationship>
 		<relationship name="mixer">
 			<destination>{0fa854ee-d726-4a1e-aafa-8923d6820f85}</destination>
@@ -57,7 +57,7 @@
 			<destination>{e35d18c7-917b-43d1-aad9-00d6f58bcda3}</destination>
 		</relationship>
 		<relationship name="output">
-			<destination>{3e64b7d2-42f6-4136-aff7-a590812b421a}</destination>
+			<destination>{1f6e4cd5-6f49-4a77-aee4-a62fca0be574}</destination>
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{de4efe2c-2be2-458b-968b-0d9e679dfc2d}" />
@@ -120,6 +120,7 @@
 	<object class="MixerBusEffectChain" id="{87d360b1-c840-4b59-8703-ba8db83c9ff5}">
 		<relationship name="effects">
 			<destination>{0e27a2d6-fe34-4f08-8352-7131853b76f5}</destination>
+			<destination>{c178fb2b-5c5f-4820-807a-e6b9a477240b}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{bd50c9ef-c3bc-4e70-adf7-a17153f3ba4b}" />
@@ -131,5 +132,6 @@
 	</object>
 	<object class="MixerBusPanner" id="{620095dc-42d5-4a66-acb3-634d1050e077}" />
 	<object class="MixerBusFader" id="{0e27a2d6-fe34-4f08-8352-7131853b76f5}" />
+	<object class="SpatialiserEffect" id="{c178fb2b-5c5f-4820-807a-e6b9a477240b}" />
 	<object class="MixerBusFader" id="{33f2e52f-304b-47fa-931b-ece070fc557d}" />
 </objects>

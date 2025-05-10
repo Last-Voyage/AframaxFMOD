@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{b43131e8-8d55-4de6-b8e2-897560ccdc6c}">
+		<property name="assetPath">
+			<value>LimbIdleV3.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>10.640000000000001</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{711dc951-605f-4f29-9c36-5ebe918253fc}</destination>
+		</relationship>
+	</object>
+</objects>

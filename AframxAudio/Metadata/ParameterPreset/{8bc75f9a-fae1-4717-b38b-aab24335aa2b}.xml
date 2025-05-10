@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{8bc75f9a-fae1-4717-b38b-aab24335aa2b}">
+		<property name="name">
+			<value>Health</value>
+		</property>
+		<relationship name="folder">
+			<destination>{90d5eb10-d307-42e4-a090-ec4c29f95242}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{3d7249f5-7164-420b-878d-a8bd6f684a8b}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{3d7249f5-7164-420b-878d-a8bd6f684a8b}">
+		<property name="parameterType">
+			<value>1</value>
+		</property>
+		<property name="maximum">
+			<value>5</value>
+		</property>
+		<property name="isGlobal">
+			<value>true</value>
+		</property>
+		<property name="initialValue">
+			<value>1</value>
+		</property>
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+	</object>
+</objects>

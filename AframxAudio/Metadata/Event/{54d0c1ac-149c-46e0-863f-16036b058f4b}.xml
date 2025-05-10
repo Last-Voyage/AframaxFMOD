@@ -5,10 +5,10 @@
 			<value>LimbSlitherSFX</value>
 		</property>
 		<property name="outputFormat">
-			<value>1</value>
+			<value>2</value>
 		</property>
 		<relationship name="folder">
-			<destination>{c496fae6-53b3-471e-9d7e-659b1700f2aa}</destination>
+			<destination>{931b3028-d55d-4c70-b611-5435a9e9c85a}</destination>
 		</relationship>
 		<relationship name="mixer">
 			<destination>{f9643853-2582-4f0f-ba26-ec1e71c27a86}</destination>
@@ -57,7 +57,7 @@
 			<destination>{e47828a8-f8dd-494e-b6bd-53b79a9ca440}</destination>
 		</relationship>
 		<relationship name="output">
-			<destination>{3e64b7d2-42f6-4136-aff7-a590812b421a}</destination>
+			<destination>{1f6e4cd5-6f49-4a77-aee4-a62fca0be574}</destination>
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{bab0c4ca-997d-4ea8-bdd8-937651aff7d3}" />
@@ -102,7 +102,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{29b35768-41ea-46ec-a0cd-ecd012cd668c}">
 		<property name="volume">
-			<value>-17.5</value>
+			<value>-8</value>
 		</property>
 		<property name="name">
 			<value>Audio 1</value>
@@ -120,6 +120,7 @@
 	<object class="MixerBusEffectChain" id="{7ab12486-173a-4c4a-8809-e0e898f030ce}">
 		<relationship name="effects">
 			<destination>{a8998333-15c5-4b66-9a9f-f99dd4a60738}</destination>
+			<destination>{63af40db-fcdd-4bd9-91d4-672ddf5599b1}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{0228eaca-daf6-4f04-930b-50fc77146b44}" />
@@ -131,5 +132,6 @@
 	</object>
 	<object class="MixerBusPanner" id="{fecc3c39-baf5-4bf6-afc7-cfd62c4e9a0c}" />
 	<object class="MixerBusFader" id="{a8998333-15c5-4b66-9a9f-f99dd4a60738}" />
+	<object class="SpatialiserEffect" id="{63af40db-fcdd-4bd9-91d4-672ddf5599b1}" />
 	<object class="MixerBusFader" id="{fc6dccf3-6fe0-48cc-84b0-9cb4c8f238fe}" />
 </objects>

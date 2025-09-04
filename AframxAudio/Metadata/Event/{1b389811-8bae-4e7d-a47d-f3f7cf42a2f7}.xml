@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{1b389811-8bae-4e7d-a47d-f3f7cf42a2f7}">
 		<property name="name">
 			<value>LightBuzz</value>

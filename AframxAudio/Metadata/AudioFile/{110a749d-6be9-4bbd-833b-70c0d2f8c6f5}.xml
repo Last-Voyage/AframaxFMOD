@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{110a749d-6be9-4bbd-833b-70c0d2f8c6f5}">
 		<property name="assetPath">
 			<value>FrogSound3.wav</value>

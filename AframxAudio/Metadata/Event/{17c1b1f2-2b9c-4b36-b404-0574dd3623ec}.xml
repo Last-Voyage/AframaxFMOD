@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{17c1b1f2-2b9c-4b36-b404-0574dd3623ec}">
 		<property name="name">
 			<value>CreakingTreesSFX</value>

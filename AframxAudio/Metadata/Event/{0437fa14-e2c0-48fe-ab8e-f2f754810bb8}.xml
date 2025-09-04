@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{0437fa14-e2c0-48fe-ab8e-f2f754810bb8}">
 		<property name="name">
 			<value>EnemyWeakSpotSFX</value>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{d6140f87-c4bc-4580-9843-5327dee79c1d}">
 		<property name="assetPath">
 			<value>Droplette2.wav</value>

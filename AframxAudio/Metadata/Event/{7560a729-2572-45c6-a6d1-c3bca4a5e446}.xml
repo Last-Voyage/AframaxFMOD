@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{7560a729-2572-45c6-a6d1-c3bca4a5e446}">
+		<property name="note" />
 		<property name="name">
 			<value>MonsterScreechSFX</value>
 		</property>
@@ -123,7 +124,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{0c90cfd8-b582-480e-9d87-e3e64930f19d}">
 		<property name="volume">
-			<value>-14</value>
+			<value>-2.5</value>
 		</property>
 		<property name="name">
 			<value>Audio 1</value>

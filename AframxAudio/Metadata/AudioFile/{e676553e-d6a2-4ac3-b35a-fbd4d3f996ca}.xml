@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{e676553e-d6a2-4ac3-b35a-fbd4d3f996ca}">
 		<property name="assetPath">
 			<value>PlayerVAThirdAnthroNote.mp3</value>

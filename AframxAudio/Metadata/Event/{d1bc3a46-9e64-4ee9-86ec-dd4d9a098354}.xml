@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{d1bc3a46-9e64-4ee9-86ec-dd4d9a098354}">
 		<property name="name">
 			<value>CreatureCrySFX</value>

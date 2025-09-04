@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{83bced05-9374-44bc-ba0e-77d73b0ce4c8}">
 		<property name="assetPath">
 			<value>GunRattleV2.mp3</value>

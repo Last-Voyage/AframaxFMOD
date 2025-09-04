@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{765a53cb-d168-4844-b930-1c14461de4c8}">
 		<property name="name">
 			<value>ChaseLimbSlitherSFX</value>

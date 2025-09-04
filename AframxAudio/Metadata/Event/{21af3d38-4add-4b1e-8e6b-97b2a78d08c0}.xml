@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{21af3d38-4add-4b1e-8e6b-97b2a78d08c0}">
 		<property name="name">
 			<value>LimbAttackSFX</value>

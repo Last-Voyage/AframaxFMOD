@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{be962132-ed05-46ba-820c-49a2276c00be}">
 		<property name="name">
 			<value>RainPatchSFX</value>

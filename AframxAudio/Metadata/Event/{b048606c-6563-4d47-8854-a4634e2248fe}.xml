@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{b048606c-6563-4d47-8854-a4634e2248fe}">
 		<property name="name">
 			<value>DeathScreenMusic</value>
@@ -85,12 +85,12 @@
 	</object>
 	<object class="Timeline" id="{395fd50d-bfa7-494b-9c99-5ee7d03413d1}">
 		<relationship name="modules">
-			<destination>{16e6a783-208c-459e-909c-b78ec2718802}</destination>
-			<destination>{4588a80d-c9d5-4f69-9bd2-bcc4185d8b10}</destination>
-			<destination>{29432ac7-8798-4045-986c-de4dee498a68}</destination>
-			<destination>{e45a96fe-20ea-415b-9b1c-d4eba9852867}</destination>
 			<destination>{6f8d623e-1fdb-48b1-950e-e482394b2b84}</destination>
+			<destination>{29432ac7-8798-4045-986c-de4dee498a68}</destination>
 			<destination>{0fb71f4a-85de-4d68-a57e-9775ae1231c5}</destination>
+			<destination>{4588a80d-c9d5-4f69-9bd2-bcc4185d8b10}</destination>
+			<destination>{16e6a783-208c-459e-909c-b78ec2718802}</destination>
+			<destination>{e45a96fe-20ea-415b-9b1c-d4eba9852867}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixerMaster" id="{466c0068-ce71-4381-b525-9f01d2ee9adb}">

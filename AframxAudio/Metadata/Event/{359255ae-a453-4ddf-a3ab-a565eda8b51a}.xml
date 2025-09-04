@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{359255ae-a453-4ddf-a3ab-a565eda8b51a}">
 		<property name="name">
 			<value>ShipBell</value>
@@ -99,10 +99,10 @@
 	</object>
 	<object class="Timeline" id="{01e0cff2-b3e6-4bed-84df-e38d8ff0a327}">
 		<relationship name="modules">
-			<destination>{92129dfa-2799-4dc9-8c2e-bf8df27fdc3a}</destination>
-			<destination>{300ba25a-9594-45f4-b890-d1c430fa4816}</destination>
-			<destination>{150eb573-6d33-41d3-9d15-5d5ceea30fb9}</destination>
 			<destination>{2fe8e58f-a337-4650-bf92-6f2e5e90d95c}</destination>
+			<destination>{92129dfa-2799-4dc9-8c2e-bf8df27fdc3a}</destination>
+			<destination>{150eb573-6d33-41d3-9d15-5d5ceea30fb9}</destination>
+			<destination>{300ba25a-9594-45f4-b890-d1c430fa4816}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixerMaster" id="{c27cb699-ace7-40c8-aa47-b99f73fe8a16}">

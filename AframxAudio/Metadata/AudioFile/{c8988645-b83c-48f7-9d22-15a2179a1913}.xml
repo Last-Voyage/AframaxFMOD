@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{c8988645-b83c-48f7-9d22-15a2179a1913}">
 		<property name="assetPath">
 			<value>HarpoonShotV3.wav</value>

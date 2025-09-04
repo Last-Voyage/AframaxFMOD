@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{da43c84e-1a30-44a5-a35e-a8c4fc5cd674}">
 		<property name="name">
 			<value>MenuSplashSFX</value>
@@ -81,8 +81,8 @@
 	</object>
 	<object class="Timeline" id="{4809ca2a-a005-4979-a3f6-ddf25c82c769}">
 		<relationship name="modules">
-			<destination>{5fdf363e-4600-42c8-9fbd-488524327a0d}</destination>
 			<destination>{72700ce4-16b0-4bda-8d90-13eca2c32c8c}</destination>
+			<destination>{5fdf363e-4600-42c8-9fbd-488524327a0d}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixerMaster" id="{36b4ab98-4bfb-4a20-9bfd-289db18367de}">

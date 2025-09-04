@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{9294d3ce-5cb5-4282-9526-8f167d8470f2}">
 		<property name="name">
 			<value>CaptainVA 11</value>
@@ -81,8 +81,8 @@
 	</object>
 	<object class="Timeline" id="{013b6ca3-e89f-4213-b6b9-e4a33d8d3b2b}">
 		<relationship name="modules">
-			<destination>{b7d67466-a389-475e-a485-b0545200dba9}</destination>
 			<destination>{d81e45b7-43c6-42e7-bb5e-f734033a881b}</destination>
+			<destination>{b7d67466-a389-475e-a485-b0545200dba9}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixerMaster" id="{430054c3-e1f5-4e56-bfe3-a5d207f9d91b}">

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{460a61fe-3a57-48f0-993d-2f1c60347889}">
 		<property name="assetPath">
 			<value>DeathScreenMusicV2.mp3</value>

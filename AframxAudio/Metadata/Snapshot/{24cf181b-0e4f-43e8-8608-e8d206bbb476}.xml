@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="Snapshot" id="{24cf181b-0e4f-43e8-8608-e8d206bbb476}">
 		<property name="name">
 			<value>LowHeath1</value>
@@ -26,8 +26,8 @@
 			<destination>{e161c313-98d4-4833-9aca-c82dc866dc01}</destination>
 		</relationship>
 		<relationship name="snapshotTracks">
-			<destination>{6b8e0b1e-14e2-4848-99d3-3d5036957ded}</destination>
 			<destination>{c1e9c671-0076-4d09-a971-b77c6e0fa69c}</destination>
+			<destination>{6b8e0b1e-14e2-4848-99d3-3d5036957ded}</destination>
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{34c40e46-c64f-44b9-b84a-0dc6a294b8ab}" />
@@ -78,14 +78,14 @@
 			<destination>{1f6e4cd5-6f49-4a77-aee4-a62fca0be574}</destination>
 		</relationship>
 	</object>
-	<object class="SnapshotTrack" id="{6b8e0b1e-14e2-4848-99d3-3d5036957ded}">
-		<relationship name="mixerStrip">
-			<destination>{3e64b7d2-42f6-4136-aff7-a590812b421a}</destination>
-		</relationship>
-	</object>
 	<object class="SnapshotTrack" id="{c1e9c671-0076-4d09-a971-b77c6e0fa69c}">
 		<relationship name="mixerStrip">
 			<destination>{1f6e4cd5-6f49-4a77-aee4-a62fca0be574}</destination>
+		</relationship>
+	</object>
+	<object class="SnapshotTrack" id="{6b8e0b1e-14e2-4848-99d3-3d5036957ded}">
+		<relationship name="mixerStrip">
+			<destination>{3e64b7d2-42f6-4136-aff7-a590812b421a}</destination>
 		</relationship>
 	</object>
 </objects>

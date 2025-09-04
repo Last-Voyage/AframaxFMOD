@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{986f412f-514f-40c6-97e8-110cea3a3976}">
 		<property name="name">
 			<value>FocusBreath</value>

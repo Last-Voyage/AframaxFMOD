@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{317b9fea-7f25-4ab3-9c72-b529ab71a94f}">
 		<property name="name">
 			<value>HatchCloseSFX</value>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{49df36ae-ba11-431a-a01e-3d2b41254805}">
 		<property name="name">
 			<value>MazeMusic</value>
@@ -86,11 +86,11 @@
 			<destination>{994f0832-e0bd-46a2-a503-bbfcab968144}</destination>
 		</relationship>
 		<relationship name="markers">
-			<destination>{1c110617-c812-4e36-8f49-00512239a643}</destination>
 			<destination>{8647a0d6-fc4b-43ab-bb0f-556fa040a598}</destination>
-			<destination>{71b9a67b-61e3-4825-97b0-5d82549264b9}</destination>
-			<destination>{ced5e027-81b0-44f9-9e9f-b39765993bda}</destination>
 			<destination>{b1933f27-bac3-4d81-9a6f-71c785d5617c}</destination>
+			<destination>{ced5e027-81b0-44f9-9e9f-b39765993bda}</destination>
+			<destination>{1c110617-c812-4e36-8f49-00512239a643}</destination>
+			<destination>{71b9a67b-61e3-4825-97b0-5d82549264b9}</destination>
 			<destination>{9ed72da2-849b-44f5-a743-898d9aa43abb}</destination>
 		</relationship>
 	</object>
@@ -150,20 +150,6 @@
 			<destination>{48585187-042d-4e7b-a2cd-948390f1c7ce}</destination>
 		</relationship>
 	</object>
-	<object class="LoopRegion" id="{1c110617-c812-4e36-8f49-00512239a643}">
-		<property name="position">
-			<value>0</value>
-		</property>
-		<property name="length">
-			<value>407.39999999999998</value>
-		</property>
-		<relationship name="timeline">
-			<destination>{cd00f9d2-5fd5-46d4-87c9-d16a404c5f36}</destination>
-		</relationship>
-		<relationship name="markerTrack">
-			<destination>{8a3ba59f-e487-4103-aa74-94b99199dd27}</destination>
-		</relationship>
-	</object>
 	<object class="NamedMarker" id="{8647a0d6-fc4b-43ab-bb0f-556fa040a598}">
 		<property name="position">
 			<value>140</value>
@@ -178,18 +164,24 @@
 			<destination>{a7becd02-3149-43ea-9ec7-ec8c05ca1b84}</destination>
 		</relationship>
 	</object>
-	<object class="NamedMarker" id="{71b9a67b-61e3-4825-97b0-5d82549264b9}">
+	<object class="TransitionMarker" id="{b1933f27-bac3-4d81-9a6f-71c785d5617c}">
 		<property name="position">
-			<value>275</value>
+			<value>0</value>
 		</property>
-		<property name="name">
-			<value>Marker B</value>
+		<property name="triggerProbabilityEnabled">
+			<value>true</value>
+		</property>
+		<property name="triggerProbability">
+			<value>14.5</value>
 		</property>
 		<relationship name="timeline">
 			<destination>{cd00f9d2-5fd5-46d4-87c9-d16a404c5f36}</destination>
 		</relationship>
 		<relationship name="markerTrack">
-			<destination>{a7becd02-3149-43ea-9ec7-ec8c05ca1b84}</destination>
+			<destination>{fe4f92aa-62b8-4c9d-9ced-d5ecc6dab2cd}</destination>
+		</relationship>
+		<relationship name="destination">
+			<destination>{71b9a67b-61e3-4825-97b0-5d82549264b9}</destination>
 		</relationship>
 	</object>
 	<object class="TransitionMarker" id="{ced5e027-81b0-44f9-9e9f-b39765993bda}">
@@ -212,24 +204,32 @@
 			<destination>{8647a0d6-fc4b-43ab-bb0f-556fa040a598}</destination>
 		</relationship>
 	</object>
-	<object class="TransitionMarker" id="{b1933f27-bac3-4d81-9a6f-71c785d5617c}">
+	<object class="LoopRegion" id="{1c110617-c812-4e36-8f49-00512239a643}">
 		<property name="position">
 			<value>0</value>
 		</property>
-		<property name="triggerProbabilityEnabled">
-			<value>true</value>
-		</property>
-		<property name="triggerProbability">
-			<value>14.5</value>
+		<property name="length">
+			<value>407.39999999999998</value>
 		</property>
 		<relationship name="timeline">
 			<destination>{cd00f9d2-5fd5-46d4-87c9-d16a404c5f36}</destination>
 		</relationship>
 		<relationship name="markerTrack">
-			<destination>{fe4f92aa-62b8-4c9d-9ced-d5ecc6dab2cd}</destination>
+			<destination>{8a3ba59f-e487-4103-aa74-94b99199dd27}</destination>
 		</relationship>
-		<relationship name="destination">
-			<destination>{71b9a67b-61e3-4825-97b0-5d82549264b9}</destination>
+	</object>
+	<object class="NamedMarker" id="{71b9a67b-61e3-4825-97b0-5d82549264b9}">
+		<property name="position">
+			<value>275</value>
+		</property>
+		<property name="name">
+			<value>Marker B</value>
+		</property>
+		<relationship name="timeline">
+			<destination>{cd00f9d2-5fd5-46d4-87c9-d16a404c5f36}</destination>
+		</relationship>
+		<relationship name="markerTrack">
+			<destination>{a7becd02-3149-43ea-9ec7-ec8c05ca1b84}</destination>
 		</relationship>
 	</object>
 	<object class="TransitionMarker" id="{9ed72da2-849b-44f5-a743-898d9aa43abb}">

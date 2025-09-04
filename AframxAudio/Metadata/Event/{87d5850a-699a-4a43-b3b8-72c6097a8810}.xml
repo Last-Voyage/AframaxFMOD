@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{87d5850a-699a-4a43-b3b8-72c6097a8810}">
 		<property name="name">
 			<value>AmmoPickupSFX</value>

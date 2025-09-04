@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="ParameterPreset" id="{6f4b404c-40f5-4d72-9c10-7407b1ee018b}">
 		<property name="name">
 			<value>WalkingMaterial</value>

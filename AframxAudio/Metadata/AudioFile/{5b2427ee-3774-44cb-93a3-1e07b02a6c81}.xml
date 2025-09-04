@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{5b2427ee-3774-44cb-93a3-1e07b02a6c81}">
 		<property name="assetPath">
 			<value>GeneratorStartV1.wav</value>

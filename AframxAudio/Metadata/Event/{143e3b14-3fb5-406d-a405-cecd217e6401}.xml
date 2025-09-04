@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{143e3b14-3fb5-406d-a405-cecd217e6401}">
 		<property name="name">
 			<value>CaptainVA 9</value>

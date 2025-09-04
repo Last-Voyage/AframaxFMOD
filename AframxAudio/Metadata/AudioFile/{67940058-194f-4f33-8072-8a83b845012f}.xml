@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{67940058-194f-4f33-8072-8a83b845012f}">
 		<property name="assetPath">
 			<value>PauseMinimal.mp3</value>

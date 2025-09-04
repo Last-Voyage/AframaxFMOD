@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{508dd818-0d86-440b-a392-760c6d6f9758}">
 		<property name="assetPath">
 			<value>Wood impact2.wav</value>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{cf7c2e34-7555-4ee5-bd6c-a090a8692bb4}">
 		<property name="name">
 			<value>SpannerUseSFX</value>

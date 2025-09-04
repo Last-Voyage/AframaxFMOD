@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{506a848d-70e4-4c18-bc8c-0e074de4a8fc}">
 		<property name="assetPath">
 			<value>Shelf bump.mp3</value>

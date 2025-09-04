@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{8a13e3bf-6668-430b-a7bd-4ad0aed4e09f}">
 		<property name="assetPath">
 			<value>Door Locked V3.wav</value>

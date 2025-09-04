@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="EventFolder" id="{697c33f0-4d2e-4bf3-94a1-bc6eb404e201}">
 		<property name="name">
 			<value>Anomalies</value>

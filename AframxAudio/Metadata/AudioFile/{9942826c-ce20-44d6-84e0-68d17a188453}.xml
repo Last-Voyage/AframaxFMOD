@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{9942826c-ce20-44d6-84e0-68d17a188453}">
 		<property name="assetPath">
 			<value>wood-creak-single-v3-14657.mp3</value>

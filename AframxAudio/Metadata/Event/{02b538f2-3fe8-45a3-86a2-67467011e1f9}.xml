@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{02b538f2-3fe8-45a3-86a2-67467011e1f9}">
 		<property name="name">
 			<value>LightsFlickeringSFX</value>

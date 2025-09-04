@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="EncodingSetting" id="{e3f3791e-0607-43af-90a7-26185ac11e89}">
 		<property name="encodingFormat">
 			<value>3</value>

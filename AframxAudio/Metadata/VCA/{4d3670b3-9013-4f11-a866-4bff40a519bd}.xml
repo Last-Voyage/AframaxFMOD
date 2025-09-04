@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="MixerVCA" id="{4d3670b3-9013-4f11-a866-4bff40a519bd}">
 		<property name="name">
 			<value>SFXVCA</value>

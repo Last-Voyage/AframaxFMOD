@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{3515e472-53c2-4416-b770-cf36d6b03f8f}">
 		<property name="assetPath">
 			<value>Player39.mp3</value>
